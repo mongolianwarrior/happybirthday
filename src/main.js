@@ -1,4 +1,4 @@
-import './style.css'
+// import './style.css'
 import Phaser from './lib/phaser.js';
 
 const sizes={
