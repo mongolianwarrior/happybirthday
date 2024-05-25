@@ -1,5 +1,5 @@
 // import './style.css'
-import Phaser from './lib/phaser.js';
+import Phaser from 'phaser';
 
 const sizes={
   width:868,
